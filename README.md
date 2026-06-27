@@ -148,19 +148,7 @@ Bachelor of Engineering in Computer Science and Engineering, 2024
 - Cloud and DevOps exposure with AWS, Docker, GitHub Actions CI/CD, S3, EC2, and CloudWatch.
 - Publications and certifications: IJRASET 2024 publication, AWS Cloud Practitioner Essentials, Google AI Professional Certificate.
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shree2402&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Shree's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree2402&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shree2402&hide_border=true" alt="GitHub streak stats" />
-</p>
-
 ## Connect With Me
 
 - LinkedIn: [linkedin.com/in/shree-gnanasekar](https://www.linkedin.com/in/shree-gnanasekar)
-- GitHub: [github.com/shree2402](https://github.com/shree2402)
 - Email: [shreegayathrignana@gmail.com](mailto:shreegayathrignana@gmail.com)

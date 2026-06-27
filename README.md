@@ -164,4 +164,3 @@ Bachelor of Engineering in Computer Science and Engineering, 2024
 - LinkedIn: [linkedin.com/in/shree-gnanasekar](https://www.linkedin.com/in/shree-gnanasekar)
 - GitHub: [github.com/shree2402](https://github.com/shree2402)
 - Email: [shreegayathrignana@gmail.com](mailto:shreegayathrignana@gmail.com)
-

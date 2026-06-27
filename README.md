@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.svg" alt="Shree Gayathri Gnanasekar - Software Engineer, Full Stack Developer, and AI Engineer" width="100%" />
 </p>
 
-# Hello, Shree Gayathri Gnanasekar here
+# Hello, I'm Shree Gayathri Gnanasekar
 
 I'm a Software Engineer and Computer Science master's graduate from Texas State University. I build full-stack applications, scalable REST APIs, AI-powered systems, and immersive AR/MR experiences with a focus on clean architecture, reliable testing, and practical user impact.
 

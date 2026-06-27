@@ -11,6 +11,7 @@ I'm currently seeking Software Engineer, Full Stack Developer, Backend Developer
 <p>
   <a href="mailto:shreegayathrignana@gmail.com"><img src="https://img.shields.io/badge/Email-shreegayathrignana%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Shree" /></a>
   <a href="https://www.linkedin.com/in/shree-gnanasekar"><img src="https://img.shields.io/badge/LinkedIn-Shree%20Gnanasekar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://shree2402.github.io/Shree_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-14B8A6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio website" /></a>
 </p>
 
 ## About Me

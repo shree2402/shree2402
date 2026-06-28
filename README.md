@@ -49,9 +49,9 @@
 
 ## Featured Projects
 
-<table>
+<table align="center" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <img src="./assets/proarcade.jpg" alt="ProArcade project preview" width="100%" />
       <h3>ProArcade</h3>
       <p>AI-powered gamified productivity platform with task workflows, persistent game sessions, cloud media storage, and multimodal verification.</p>
@@ -62,7 +62,7 @@
         <a href="https://github.com/shree2402/ProArcade">View Repository</a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <img src="./assets/ar-ecommerce.jpg" alt="AR e-commerce virtual try-on preview" width="100%" />
       <h3>AR Virtual Try-On</h3>
       <p>AR-enhanced shopping experience with 3D product previews, AI-powered try-on flows, and scalable product data workflows.</p>

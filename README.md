@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=700&color=14B8A6&center=true&vCenter=true&width=720&lines=Software+Engineer;Full+Stack+Developer;Backend+Developer;Frontend+Developer;AI+Engineer;AR%2FMR+Application+Developer" alt="Typing animation showing Shree's target roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=700&color=14B8A6&center=true&vCenter=true&width=720&lines=%F0%9F%92%A1+Ideating...;%E2%8C%A8%EF%B8%8F+Coding...;%F0%9F%A7%A9+Solving...;%E2%9A%A1+Optimizing...;%F0%9F%9A%80+Launching...;%F0%9F%8C%9F+Evolving..." alt="Typing animation showing Shree's build process" />
 </p>
 
 <p align="center">

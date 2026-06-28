@@ -2,153 +2,147 @@
   <img src="./assets/profile-banner.svg" alt="Shree Gayathri Gnanasekar - Software Engineer, Full Stack Developer, and AI Engineer" width="100%" />
 </p>
 
-# Hello, I'm Shree Gayathri Gnanasekar
+<h1 align="center">Hi, I'm Shree Gayathri Gnanasekar</h1>
 
-I'm a Software Engineer and Computer Science master's graduate from Texas State University. I build full-stack applications, scalable REST APIs, AI-powered systems, and immersive AR/MR experiences with a focus on clean architecture, reliable testing, and practical user impact.
+<h3 align="center">Software Engineer | Full Stack Developer | AI Engineer</h3>
 
-I'm currently seeking Software Engineer, Full Stack Developer, Backend Developer, Frontend Developer, and AI Engineer opportunities.
-
-<p>
-  <a href="mailto:shreegayathrignana@gmail.com"><img src="https://img.shields.io/badge/Email-shreegayathrignana%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Shree" /></a>
-  <a href="https://www.linkedin.com/in/shree-gnanasekar"><img src="https://img.shields.io/badge/LinkedIn-Shree%20Gnanasekar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <a href="https://shree2402.github.io/Shree_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-14B8A6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio website" /></a>
+<p align="center">
+  Building AI-powered full-stack applications, scalable backend systems, and immersive AR/MR experiences.
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=700&color=14B8A6&center=true&vCenter=true&width=720&lines=Software+Engineer;Full+Stack+Developer;Backend+Developer;Frontend+Developer;AI+Engineer;AR%2FMR+Application+Developer" alt="Typing animation showing Shree's target roles" />
+</p>
+
+<p align="center">
+  <a href="https://shree2402.github.io/Shree_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
+  <a href="https://www.linkedin.com/in/shree-gnanasekar"><img src="https://img.shields.io/badge/LinkedIn-Shree%20Gnanasekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="mailto:shreegayathrignana@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shree" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shree2402&style=flat-square&color=14b8a6" alt="Profile views" />
+</p>
+
+---
 
 ## About Me
 
-- MS in Computer Science from Texas State University.
-- Experienced in full-stack development, backend APIs, AI/LLM applications, data pipelines, and automated testing.
-- Built Mixed Reality modules with Unity and Magic Leap 2 for electrical hazard awareness research.
-- Comfortable working across frontend, backend, cloud, databases, AI, and performance-focused systems.
-- I like turning complex ideas into reliable products with clear interfaces and measurable outcomes.
-
-## Current Focus
-
-- Building production-ready full-stack and AI applications.
-- Strengthening system design, microservices, cloud deployment, and scalable backend development.
-- Exploring AI agents, RAG systems, model evaluation, multimodal AI, and real-time interactive applications.
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>Focus</strong><br/>Full Stack<br/>Backend<br/>AI</td>
+    <td width="25%" align="center"><strong>Location</strong><br/>Texas, USA<br/>Open to Software Roles</td>
+    <td width="25%" align="center"><strong>Interests</strong><br/>LLMs<br/>AR/MR<br/>Cloud</td>
+    <td width="25%" align="center"><strong>Build Style</strong><br/>Clean APIs<br/>Reliable Systems<br/>Useful UX</td>
+  </tr>
+</table>
 
 ## Tech Stack
 
-### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp,cs,kotlin,react,html,css,bootstrap,nodejs,express,fastapi,flask,django,postgres,mysql,firebase,supabase,aws,docker,git,githubactions,unity&perline=9" alt="Technology icons" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![WebXR](https://img.shields.io/badge/WebXR-111827?style=flat-square&logo=webgl&logoColor=white)
-
-### Backend, Cloud, and Databases
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### AI, ML, AR, and Tools
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=111827)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=111827" alt="Amazon Bedrock" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-0F172A?style=flat-square&logo=semanticweb&logoColor=white" alt="RAG systems" />
+  <img src="https://img.shields.io/badge/AI%20Agents-14B8A6?style=flat-square&logo=probot&logoColor=white" alt="AI agents" />
+  <img src="https://img.shields.io/badge/WebXR-111827?style=flat-square&logo=webgl&logoColor=white" alt="WebXR" />
+</p>
 
 ## Featured Projects
 
-### [ProArcade - AI-Powered Gamified Productivity Platform](https://github.com/shree2402/ProArcade)
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./assets/proarcade-card.svg" alt="ProArcade project card" width="100%" />
+      <h3>ProArcade</h3>
+      <p>AI-powered gamified productivity platform with task workflows, persistent game sessions, cloud media storage, and multimodal verification.</p>
+      <p>
+        <strong>Tech:</strong> React, TypeScript, Node.js, PostgreSQL, Prisma, AWS S3, Amazon Bedrock
+      </p>
+      <p>
+        <a href="https://github.com/shree2402/ProArcade">View Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <img src="./assets/ar-commerce-card.svg" alt="AR commerce project card" width="100%" />
+      <h3>AR Virtual Try-On</h3>
+      <p>AR-enhanced shopping experience with 3D product previews, AI-powered try-on flows, and scalable product data workflows.</p>
+      <p>
+        <strong>Tech:</strong> JavaScript, Bootstrap, Supabase, Hugging Face, WebXR, Model Viewer
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="./assets/mixed-reality-card.svg" alt="Mixed reality training project card" width="100%" />
+      <h3>Mixed Reality Training</h3>
+      <p>Interactive Magic Leap 2 modules for electrical hazard awareness using spatial mapping, depth sensing, and real-time simulation.</p>
+      <p>
+        <strong>Tech:</strong> Unity, C#, Magic Leap 2, Python, REST APIs
+      </p>
+    </td>
+    <td width="50%">
+      <img src="./assets/qaasker-card.svg" alt="QAAsker project card" width="100%" />
+      <h3>QAAsker</h3>
+      <p>Consistency testing framework for evaluating NLP question-answering models with metamorphic tests and ensemble reliability checks.</p>
+      <p>
+        <strong>Tech:</strong> Python, PyTest, GitHub Actions, NLP, Model Evaluation
+      </p>
+    </td>
+  </tr>
+</table>
 
-Full-stack productivity platform that turns task completion into a game experience with persistent sessions, JWT authentication, personalized task flows, and cloud-backed media handling.
+## Impact Metrics
 
-**Tech:** React, TypeScript, Node.js, PostgreSQL, Prisma, AWS S3, Amazon Bedrock, CloudWatch
+<table>
+  <tr>
+    <td align="center" width="20%"><strong>100+</strong><br/>Products Supported</td>
+    <td align="center" width="20%"><strong>1,000+</strong><br/>QA Samples Tested</td>
+    <td align="center" width="20%"><strong>30%</strong><br/>Stability Improvement</td>
+    <td align="center" width="20%"><strong>20%</strong><br/>Lower AI Latency</td>
+    <td align="center" width="20%"><strong>25ms</strong><br/>Eye Tracking Latency</td>
+  </tr>
+</table>
 
-### AR-Enhanced E-Commerce Web Application with Virtual Try-On
+## GitHub Activity
 
-AI-powered shopping experience supporting 100+ products, virtual try-on, 3D product visualization, and real-time product workflows.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shree2402&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Shree's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree2402&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
+</p>
 
-**Tech:** HTML5, CSS3, JavaScript, Bootstrap, Supabase, Hugging Face API, WebXR, Google Model Viewer
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shree2402&hide_border=true&area=true&color=14b8a6&line=0f766e&point=f97316" alt="GitHub activity graph" />
+</p>
 
-### Mixed Reality Electrical Hazard Awareness
+## Currently Learning
 
-Research project at Texas State University using spatial mapping and depth sensing to create interactive Magic Leap 2 training modules for electrical construction safety.
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge" alt="System Design" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge" alt="Microservices" />
+  <img src="https://img.shields.io/badge/AI%20Agents-14B8A6?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG%20Applications-F97316?style=for-the-badge" alt="RAG Applications" />
+</p>
 
-**Tech:** Unity, C#, Magic Leap 2, REST APIs, Python, AI/LLM services
+## Fun Facts
 
-### Eye Tracker System
-
-Real-time eye-tracking system for pupil detection and gaze estimation with 25ms latency, optimized for real-time video streams.
-
-**Tech:** C++, Computer Vision, CUDA/OpenCL, Multithreading
-
-### QAAsker - Consistency Testing Framework
-
-Automated testing framework that evaluated NLP question-answering models across 1,000+ samples using metamorphic testing and ensemble-based robustness analysis.
-
-**Tech:** Python, PyTest, GitHub Actions, NLP, Model Evaluation
-
-## Experience
-
-**Research Assistant - Texas State University**  
-Aug 2025 - Apr 2026
-
-- Built Mixed Reality modules in Unity and C# for Magic Leap 2 using spatial mapping and depth sensing.
-- Integrated REST APIs and AI/LLM services into Python-based ETL pipelines, reducing inference latency by 20%.
-- Improved MR module stability by 30% through profiling, logging, refactoring, and CI testing.
-- Prototyped RAG-powered voice agent workflows and evaluated performance through data-driven experiments.
-
-**Web Developer Intern - Gateway Software Solutions**  
-Jul 2023 - Dec 2023
-
-- Developed a full-stack microservice application using React, Node.js, and MySQL.
-- Built RESTful APIs and third-party integrations for scalable business workflows.
-- Collaborated in Agile sprints, reducing production defects by 30% and improving page-load performance by 20%.
-
-**Android Application Developer Intern - National Small Industries Corporation**  
-Jul 2022 - Dec 2022
-
-- Developed Android applications in Java and Kotlin with Firebase authentication, real-time database, and analytics.
-- Improved app stability by 25% through structured logging, error handling, and debugging workflows.
-- Optimized API response times and feature adoption through targeted performance improvements.
-
-## Education
-
-**Texas State University**  
-Master of Science in Computer Science, 2026
-
-**Avinashilingam Institute**  
-Bachelor of Engineering in Computer Science and Engineering, 2024
-
-## Highlights
-
-- Full-stack software engineering with React, TypeScript, Node.js, REST APIs, and SQL/NoSQL databases.
-- AI engineering experience across LLM applications, RAG systems, prompt engineering, model evaluation, and multimodal AI.
-- AR/MR development experience with Unity, Magic Leap 2, WebXR, and real-time interactive systems.
-- Cloud and DevOps exposure with AWS, Docker, GitHub Actions CI/CD, S3, EC2, and CloudWatch.
-- Publications and certifications: IJRASET 2024 publication, AWS Cloud Practitioner Essentials, Google AI Professional Certificate.
+<table>
+  <tr>
+    <td width="25%" align="center">I enjoy building AR/MR experiences.</td>
+    <td width="25%" align="center">I like turning AI ideas into usable products.</td>
+    <td width="25%" align="center">I care about clean APIs and reliable systems.</td>
+    <td width="25%" align="center">Coffee plus coding keeps the build moving.</td>
+  </tr>
+</table>
 
 ## Connect With Me
 
-- LinkedIn: [linkedin.com/in/shree-gnanasekar](https://www.linkedin.com/in/shree-gnanasekar)
-- Email: [shreegayathrignana@gmail.com](mailto:shreegayathrignana@gmail.com)
+<p align="center">
+  <a href="https://shree2402.github.io/Shree_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shree-gnanasekar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shreegayathrignana@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>

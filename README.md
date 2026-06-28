@@ -28,14 +28,10 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td width="25%" align="center"><strong>Focus</strong><br/>Full Stack<br/>Backend<br/>AI</td>
-    <td width="25%" align="center"><strong>Location</strong><br/>Texas, USA<br/>Open to Software Roles</td>
-    <td width="25%" align="center"><strong>Interests</strong><br/>LLMs<br/>AR/MR<br/>Cloud</td>
-    <td width="25%" align="center"><strong>Build Style</strong><br/>Clean APIs<br/>Reliable Systems<br/>Useful UX</td>
-  </tr>
-</table>
+- Building full-stack applications with React, TypeScript, Node.js, REST APIs, and cloud-backed databases.
+- Exploring AI engineering through LLM applications, RAG systems, AI agents, and model evaluation.
+- Interested in scalable backend systems, clean APIs, automation, and useful product experiences.
+- Comfortable working across frontend, backend, AI, AR/MR, cloud, and developer tooling.
 
 ## Tech Stack
 
@@ -56,7 +52,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="./assets/proarcade-card.svg" alt="ProArcade project card" width="100%" />
+      <img src="./assets/proarcade.jpg" alt="ProArcade project preview" width="100%" />
       <h3>ProArcade</h3>
       <p>AI-powered gamified productivity platform with task workflows, persistent game sessions, cloud media storage, and multimodal verification.</p>
       <p>
@@ -67,29 +63,11 @@
       </p>
     </td>
     <td width="50%">
-      <img src="./assets/ar-commerce-card.svg" alt="AR commerce project card" width="100%" />
+      <img src="./assets/ar-ecommerce.jpg" alt="AR e-commerce virtual try-on preview" width="100%" />
       <h3>AR Virtual Try-On</h3>
       <p>AR-enhanced shopping experience with 3D product previews, AI-powered try-on flows, and scalable product data workflows.</p>
       <p>
         <strong>Tech:</strong> JavaScript, Bootstrap, Supabase, Hugging Face, WebXR, Model Viewer
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="./assets/mixed-reality-card.svg" alt="Mixed reality training project card" width="100%" />
-      <h3>Mixed Reality Training</h3>
-      <p>Interactive Magic Leap 2 modules for electrical hazard awareness using spatial mapping, depth sensing, and real-time simulation.</p>
-      <p>
-        <strong>Tech:</strong> Unity, C#, Magic Leap 2, Python, REST APIs
-      </p>
-    </td>
-    <td width="50%">
-      <img src="./assets/qaasker-card.svg" alt="QAAsker project card" width="100%" />
-      <h3>QAAsker</h3>
-      <p>Consistency testing framework for evaluating NLP question-answering models with metamorphic tests and ensemble reliability checks.</p>
-      <p>
-        <strong>Tech:</strong> Python, PyTest, GitHub Actions, NLP, Model Evaluation
       </p>
     </td>
   </tr>

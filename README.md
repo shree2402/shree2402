@@ -49,7 +49,7 @@
 
 ## Featured Projects
 
-<table align="center" cellpadding="0" cellspacing="0">
+<table align="center" width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" valign="top">
       <img src="./assets/proarcade.jpg" alt="ProArcade project preview" width="100%" />

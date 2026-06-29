@@ -12,10 +12,6 @@
   <a href="mailto:shreegayathrignana@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shree" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shree2402&style=flat-square&color=14b8a6" alt="Profile views" />
-</p>
-
 ## About Me
 
 - Building full-stack applications with React, TypeScript, Node.js, REST APIs, and cloud-backed databases.
@@ -33,7 +29,7 @@
 
 <br clear="left" />
 
-<p align="right">
+<p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=111827" alt="Amazon Bedrock" />
   <img src="https://img.shields.io/badge/RAG%20Systems-0F172A?style=flat-square&logo=semanticweb&logoColor=white" alt="RAG systems" />

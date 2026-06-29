@@ -49,10 +49,6 @@
   <img src="https://img.shields.io/badge/WebXR-111827?style=flat-square&logo=webgl&logoColor=white" alt="WebXR" />
 </p>
 
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" alt="Project animation" width="220" />
-</p>
-
 ## Featured Projects
 
 <table align="center" width="100%" cellpadding="0" cellspacing="0">

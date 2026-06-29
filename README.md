@@ -96,7 +96,7 @@
   </tr>
 </table>
 
-## Connect With Me
+## Connect Me
 
 <p align="center">
   <a href="https://shree2402.github.io/Shree_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>

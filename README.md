@@ -33,16 +33,13 @@
 
 ## Tech Stack
 
-<table align="center" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="28%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt="Developer animation" width="230" />
-    </td>
-    <td width="72%" align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp,cs,kotlin,react,html,css,bootstrap,nodejs,express,fastapi,flask,django,postgres,mysql,firebase,supabase,aws,docker,git,githubactions,unity&perline=9" alt="Technology icons" />
-    </td>
-  </tr>
-</table>
+<img align="left" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" alt="Tech stack animation" width="220" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp,cs,kotlin,react,html,css,bootstrap,nodejs,express,fastapi,flask,django,postgres,mysql,firebase,supabase,aws,docker,git,githubactions,unity&perline=9" alt="Technology icons" />
+</p>
+
+<br clear="left" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />

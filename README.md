@@ -2,14 +2,6 @@
   <img src="./assets/profile-banner.svg" alt="Shree Gayathri Gnanasekar - Software Engineer, Full Stack Developer, and AI Engineer" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Shree Gayathri Gnanasekar</h1>
-
-<h3 align="center">Software Engineer | Full Stack Developer | AI Engineer</h3>
-
-<p align="center">
-  Building AI-powered full-stack applications, scalable backend systems, and immersive AR/MR experiences.
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=700&color=14B8A6&center=true&vCenter=true&width=720&lines=%F0%9F%92%A1+Ideating...;%E2%8C%A8%EF%B8%8F+Coding...;%F0%9F%A7%A9+Solving...;%E2%9A%A1+Optimizing...;%F0%9F%9A%80+Launching...;%F0%9F%8C%9F+Evolving..." alt="Typing animation showing Shree's build process" />
 </p>
@@ -41,7 +33,7 @@
 
 <br clear="left" />
 
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=111827" alt="Amazon Bedrock" />
   <img src="https://img.shields.io/badge/RAG%20Systems-0F172A?style=flat-square&logo=semanticweb&logoColor=white" alt="RAG systems" />
@@ -87,17 +79,6 @@
   </tr>
 </table>
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shree2402&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Shree's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree2402&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shree2402&hide_border=true&area=true&color=14b8a6&line=0f766e&point=f97316" alt="GitHub activity graph" />
-</p>
-
 ## Currently Learning
 
 <p align="center">
@@ -115,7 +96,7 @@
     <td width="25%" align="center">I enjoy building AR/MR experiences.</td>
     <td width="25%" align="center">I like turning AI ideas into usable products.</td>
     <td width="25%" align="center">I care about clean APIs and reliable systems.</td>
-    <td width="25%" align="center">Coffee plus coding keeps the build moving.</td>
+    <td width="25%" align="center">Hot Chocolate plus coding keeps the build moving.</td>
   </tr>
 </table>
 

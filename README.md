@@ -1,21 +1,28 @@
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt="Developer animation" width="300" />
-
-<h1>Hi, I'm Shree Gayathri Gnanasekar</h1>
-<h3>Software Engineer | Full Stack Developer | AI Engineer</h3>
-<p>Building AI-powered full-stack applications, scalable backend systems, and immersive AR/MR experiences.</p>
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=700&color=14B8A6&center=false&vCenter=true&width=520&lines=%F0%9F%92%A1+Ideating...;%E2%8C%A8%EF%B8%8F+Coding...;%F0%9F%A7%A9+Solving...;%E2%9A%A1+Optimizing...;%F0%9F%9A%80+Launching...;%F0%9F%8C%9F+Evolving..." alt="Typing animation showing Shree's build process" />
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Shree Gayathri Gnanasekar - Software Engineer, Full Stack Developer, and AI Engineer" width="100%" />
 </p>
-<p>
+
+<h1 align="center">Hi, I'm Shree Gayathri Gnanasekar</h1>
+
+<h3 align="center">Software Engineer | Full Stack Developer | AI Engineer</h3>
+
+<p align="center">
+  Building AI-powered full-stack applications, scalable backend systems, and immersive AR/MR experiences.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=700&color=14B8A6&center=true&vCenter=true&width=720&lines=%F0%9F%92%A1+Ideating...;%E2%8C%A8%EF%B8%8F+Coding...;%F0%9F%A7%A9+Solving...;%E2%9A%A1+Optimizing...;%F0%9F%9A%80+Launching...;%F0%9F%8C%9F+Evolving..." alt="Typing animation showing Shree's build process" />
+</p>
+
+<p align="center">
   <a href="https://shree2402.github.io/Shree_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
   <a href="https://www.linkedin.com/in/shree-gnanasekar"><img src="https://img.shields.io/badge/LinkedIn-Shree%20Gnanasekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
   <a href="mailto:shreegayathrignana@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shree" /></a>
 </p>
-<p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shree2402&style=flat-square&color=14b8a6" alt="Profile views" />
 </p>
-
-<br clear="right" />
 
 ## About Me
 
@@ -26,9 +33,16 @@
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp,cs,kotlin,react,html,css,bootstrap,nodejs,express,fastapi,flask,django,postgres,mysql,firebase,supabase,aws,docker,git,githubactions,unity&perline=9" alt="Technology icons" />
-</p>
+<table align="center" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="28%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt="Developer animation" width="230" />
+    </td>
+    <td width="72%" align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp,cs,kotlin,react,html,css,bootstrap,nodejs,express,fastapi,flask,django,postgres,mysql,firebase,supabase,aws,docker,git,githubactions,unity&perline=9" alt="Technology icons" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
